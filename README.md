@@ -17,6 +17,7 @@ Build consistent UIs faster with our suite of atomic and molecular components:
 *   **📇 Elegant Cards**: Versatile card components for grouping content, featuring customizable icons and elevation styles.
 *   **🏷️ Semantic Headings**: A dedicated `Title` component for standardized page headers with support for icons and descriptions.
 *   **🖱️ Custom Buttons**: Reusable button components with various state handling (loading, disabled) and styling options.
+*   **💀 Reusable Skeletons**: Comprehensive loading placeholder system (`Skeleton`, `SkeletonText`, `SkeletonAvatar`, `SkeletonMetricCard`, `SkeletonCard`, `SkeletonTable`, `SkeletonForm`) with both smooth shimmer (wave) and pulse animations.
 
 ### 🏗️ Layout Structure
 Our layout is designed for maximum usability and responsive control:
